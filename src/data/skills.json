@@ -13,13 +13,13 @@
   },
   {
     "id": "paper",
-    "name": "Paper Plugin Dev",
+    "name": "PaperMC",
     "icon": "https://avatars.githubusercontent.com/u/7608950",
     "level": 85
   },
   {
     "id": "spigot",
-    "name": "Spigot Plugin Dev",
+    "name": "SpigotMC",
     "icon": "https://static.spigotmc.org/img/spigot-og.png",
     "level": 85
   }
