@@ -1,5 +1,23 @@
 [
     {
+        "id": "bedwars",
+        "title": "Bedwars",
+        "description": "A bedwars plugin(WIP)",
+        "tags": ["Minecraft", "Plugin", "Java"],
+        "links": [
+            {
+                "url": "https://github.com/DinukChehara/BedWars",
+                "icon": "github"
+            }
+        ],
+        "featured": true,
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxNOwR00aHkRvDi_Fdpyi5A6pEvDSbYusv8XnMB8I8y_0hYCWM",
+        "banner": {
+            "link": "https://github.com/DinukChehara/BedWars"
+        },
+        "content": "A bedwars plugin(WIP), built to run on a proxy network."
+    },
+    {
         "id": "skywars+",
         "title": "Skywars+",
         "description": "A skywars plugin for 1.21+",
@@ -46,7 +64,7 @@
         "tags": ["Minecraft", "Plugin", "Java"],
         "links": [
             {
-                "url": "https://modrinth.com/plugin/quickstashk",
+                "url": "https://modrinth.com/plugin/quickstash",
                 "icon": "external-link"
             }
         ],
