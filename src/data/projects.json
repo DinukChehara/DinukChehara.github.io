@@ -43,7 +43,7 @@
         "id": "morevillages",
         "title": "More Villages",
         "description": "A datapack for 1.21 that adds more villages to the game",
-        "tags": ["Minecraft", "Paper", "Plugin", "Java"],
+        "tags": ["Minecraft", "DataPack"],
         "links": [
             {
                 "url": "https://modrinth.com/datapack/more-villages-datapack",
