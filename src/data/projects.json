@@ -10,7 +10,7 @@
                 "icon": "external-link"
             },
             {
-                "url": "https://github.com/DinukChehara/Skywars+",
+                "url": "https://github.com/DinukChehara/SkywarsPlus",
                 "icon": "github"
             }
         ],
@@ -18,7 +18,7 @@
         "thumbnail": "/skywars.png",
         "banner": {
             "link": "https://modrinth.com/plugin/skywars+",
-            "image": "/skywars-banner.png"
+            "image": "https://cdn.modrinth.com/data/cached_images/0a82d5598337b294e0f92339d0ad7ba74393ec1a.png"
         },
         "content": "A simple skywars plugin for 1.21+"
     }
