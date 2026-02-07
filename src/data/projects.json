@@ -3,7 +3,7 @@
         "id": "bedwars",
         "title": "Bedwars",
         "description": "A bedwars plugin(WIP)",
-        "tags": ["Minecraft", "Plugin", "Java"],
+        "tags": ["Minecraft", "Paper", "Plugin", "Java"],
         "links": [
             {
                 "url": "https://github.com/DinukChehara/BedWars",
@@ -21,7 +21,7 @@
         "id": "skywars+",
         "title": "Skywars+",
         "description": "A skywars plugin for 1.21+",
-        "tags": ["Minecraft", "Plugin", "Java"],
+        "tags": ["Minecraft", "Paper", "Plugin", "Java"],
         "links": [
             {
                 "url": "https://modrinth.com/plugin/skywars+",
@@ -43,7 +43,7 @@
         "id": "morevillages",
         "title": "More Villages",
         "description": "A datapack for 1.21 that adds more villages to the game",
-        "tags": ["Minecraft", "DataPack", "Java"],
+        "tags": ["Minecraft", "Paper", "Plugin", "Java"],
         "links": [
             {
                 "url": "https://modrinth.com/datapack/more-villages-datapack",
@@ -61,7 +61,7 @@
         "id": "quickstash",
         "title": "QuickStash",
         "description": "A plugin to easily store your items",
-        "tags": ["Minecraft", "Plugin", "Java"],
+        "tags": ["Minecraft", "Paper", "Plugin", "Java"],
         "links": [
             {
                 "url": "https://modrinth.com/plugin/quickstash",
