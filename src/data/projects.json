@@ -1,39 +1,21 @@
-[   
+[  
     {
-        "id": "tauctions",
-        "title": "tAuctions",
-        "description": "An auction house plugin(WIP)",
+        "id": "rankedbedwars",
+        "title": "RankedBedwars",
+        "description": "A ranked bedwars plugin(WIP)",
         "tags": ["Minecraft", "Paper", "Plugin", "Java"],
         "links": [
             {
-                "url": "https://github.com/DinukChehara/tAuctions",
+                "url": "https://github.com/DinukChehara/RankedBedWars",
                 "icon": "github"
             }
         ],
         "featured": true,
-        "thumbnail": "tauctions no img 😭",
+        "thumbnail": "https://avatars.githubusercontent.com/u/147872336?s=280&v=4",
         "banner": {
-            "link": "https://github.com/DinukChehara/tAuctions"
+            "link": "https://github.com/DinukChehara/RankedBedWars"
         },
-        "content": "An auction house plugin for minecraft 1.21.11(later it will be 1.21.x)"
-    },
-    {
-        "id": "bedwars",
-        "title": "Bedwars",
-        "description": "A bedwars plugin(WIP)",
-        "tags": ["Minecraft", "Paper", "Plugin", "Java"],
-        "links": [
-            {
-                "url": "https://github.com/DinukChehara/BedWars",
-                "icon": "github"
-            }
-        ],
-        "featured": true,
-        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTxNOwR00aHkRvDi_Fdpyi5A6pEvDSbYusv8XnMB8I8y_0hYCWM",
-        "banner": {
-            "link": "https://github.com/DinukChehara/BedWars"
-        },
-        "content": "A bedwars plugin(WIP), built to run on a proxy network."
+        "content": "A ranked bedwars plugin(WIP), built to run on a proxy network. This is an addon for BedWars1058 plugin."
     },
     {
         "id": "skywars+",
@@ -56,6 +38,24 @@
             "link": "https://modrinth.com/plugin/skywars+"
         },
         "content": "A simple skywars plugin for 1.21+"
+    },
+    {
+        "id": "tauctions",
+        "title": "tAuctions",
+        "description": "An auction house plugin(WIP)",
+        "tags": ["Minecraft", "Paper", "Plugin", "Java"],
+        "links": [
+            {
+                "url": "https://github.com/DinukChehara/tAuctions",
+                "icon": "github"
+            }
+        ],
+        "featured": false,
+        "thumbnail": "tauctions no img 😭",
+        "banner": {
+            "link": "https://github.com/DinukChehara/tAuctions"
+        },
+        "content": "An auction house plugin for minecraft 1.21.11(later it will be 1.21.x)"
     },
     {
         "id": "morevillages",
